@@ -1,4 +1,5 @@
-﻿int CountingNumber3Elements(string[] arrayCounting)
+﻿/*
+int CountingNumber3Elements(string[] arrayCounting)
 {
     int counter3Elements = 0;
 
@@ -60,3 +61,4 @@ string[] array2 = { "1234", "1567", "-2", "computer science" };
 string[] array3 = { "Russia", "Denmark", "Kazan" };
 
 PrintJaggedArray(CreateJaggedArray(array1, array2, array3, numberArrays));
+*/
